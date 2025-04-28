@@ -10,7 +10,7 @@ This project applies unsupervised learning techniques to uncover natural groupin
 ## Methodology
 1. **Exploratory Data Analysis (EDA)**: Understanding feature distributions and relationships.
 2. **Preprocessing**: Data cleaning, feature scaling, and balancing via SMOTE (for enhanced feature space coverage).
-3. **Dimensionality Reduction**: Application of PCA, and t-SNE for visualization.
+3. **Dimensionality Reduction**: Application of PCA
 4. **Clustering**: Implementation and comparison of clustering methods.
 5. **Evaluation**: Assessment of clustering structure using silhouette scores and visualizations.
 
